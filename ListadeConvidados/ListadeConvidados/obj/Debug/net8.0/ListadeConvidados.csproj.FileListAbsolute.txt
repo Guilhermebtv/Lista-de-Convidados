@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\ESTUDOS\ListadeConvidados\ListadeConvidados\bin\Debug\net8.0\ListadeConvidados.exe
+C:\Users\usuario\Desktop\ESTUDOS\ListadeConvidados\ListadeConvidados\bin\Debug\net8.0\ListadeConvidados.deps.json
+C:\Users\usuario\Desktop\ESTUDOS\ListadeConvidados\ListadeConvidados\bin\Debug\net8.0\ListadeConvidados.runtimeconfig.json
+C:\Users\usuario\Desktop\ESTUDOS\ListadeConvidados\ListadeConvidados\bin\Debug\net8.0\ListadeConvidados.dll
+C:\Users\usuario\Desktop\ESTUDOS\ListadeConvidados\ListadeConvidados\bin\Debug\net8.0\ListadeConvidados.pdb
+C:\Users\usuario\Desktop\ESTUDOS\ListadeConvidados\ListadeConvidados\obj\Debug\net8.0\ListadeConvidados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\ESTUDOS\ListadeConvidados\ListadeConvidados\obj\Debug\net8.0\ListadeConvidados.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\ListadeConvidados\ListadeConvidados\obj\Debug\net8.0\ListadeConvidados.AssemblyInfo.cs
+C:\Users\usuario\Desktop\ESTUDOS\ListadeConvidados\ListadeConvidados\obj\Debug\net8.0\ListadeConvidados.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\ESTUDOS\ListadeConvidados\ListadeConvidados\obj\Debug\net8.0\ListadeConvidados.dll
+C:\Users\usuario\Desktop\ESTUDOS\ListadeConvidados\ListadeConvidados\obj\Debug\net8.0\refint\ListadeConvidados.dll
+C:\Users\usuario\Desktop\ESTUDOS\ListadeConvidados\ListadeConvidados\obj\Debug\net8.0\ListadeConvidados.pdb
+C:\Users\usuario\Desktop\ESTUDOS\ListadeConvidados\ListadeConvidados\obj\Debug\net8.0\ListadeConvidados.genruntimeconfig.cache
+C:\Users\usuario\Desktop\ESTUDOS\ListadeConvidados\ListadeConvidados\obj\Debug\net8.0\ref\ListadeConvidados.dll
